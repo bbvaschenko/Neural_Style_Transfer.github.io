@@ -31,8 +31,6 @@ https://colab.research.google.com/drive/113MKeHmaOXLKGhFDWTOo1jEor48SAHPX#scroll
 !только учтите, изображения должны быть одинакого формата, и чем они меньше тем лучше!
 
 
-# ну, вот и всё!
-
 
 
 
