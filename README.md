@@ -26,6 +26,10 @@ https://www.anaconda.com/products/distribution
 
 но для тех кому лень, или не позволяет компьютер вот ссылка на Colab:
 
+https://colab.research.google.com/drive/113MKeHmaOXLKGhFDWTOo1jEor48SAHPX#scrollTo=TwKW5g_B39Rh
+
+$ только учтите, изображения должны быть одинакого формата 
+
 
 
 
