@@ -29,16 +29,3 @@ https://www.anaconda.com/products/distribution
 https://colab.research.google.com/drive/113MKeHmaOXLKGhFDWTOo1jEor48SAHPX#scrollTo=TwKW5g_B39Rh
 
 !только учтите, изображения должны быть одинакого формата, и чем они меньше тем лучше!
-
-
-
-
-
-
-
-
-
-
-
-
-
