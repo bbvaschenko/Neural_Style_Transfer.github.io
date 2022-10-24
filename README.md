@@ -14,13 +14,19 @@ https://www.anaconda.com/products/distribution
 
 и установить tensorflow, keras, numpy, matplotlib.
 
-pip install tensorflow
+  pip install tensorflow
 
-pip install keras
+  pip install keras
 
-pip install numpy
+  pip install numpy
 
-pip install matplotlib
+  pip install matplotlib
+
+и далее уже запустить код через Anaconda Prompt
+
+но для тех кому лень, или не позволяет компьютер вот ссылка на Colab:
+
+
 
 
 
