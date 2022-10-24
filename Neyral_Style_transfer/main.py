@@ -6,7 +6,7 @@ from tensorflow import keras
 from tensorflow.keras import layers
 import keyboard
 
-img = Image.open('Images\img.jpg')
+img = Image.open('Images\img2.jpg')
 img_style = Image.open('Imgs_style\img_style.jpg')
 plt.subplot(1, 2, 1)
 plt.imshow(img)
