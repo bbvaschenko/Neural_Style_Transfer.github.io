@@ -12,6 +12,19 @@
 
 https://www.anaconda.com/products/distribution
 
+и установить tensorflow, keras, numpy, matplotlib.
+
+pip install tensorflow
+
+pip install keras
+
+pip install numpy
+
+pip install matplotlib
+
+
+
+
 
 
 
